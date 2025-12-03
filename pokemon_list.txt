@@ -19,6 +19,9 @@ Arcanine
 Poliwag
 Poliwhirl
 Poliwrath
+Machop
+Machoke
+Machamp
 Bellsprout @filler
 Weepinbell @filler
 Victreebel @filler
@@ -115,12 +118,16 @@ Magcargo
 Swinub
 Piloswine
 Skarmory
+Houndour
+Houndoom
 Stantler
 Miltank
 Blissey
 Larvitar @filler
 Pupitar @filler
 Tyranitar @filler
+Poochyena @filler
+Mightyena @filler
 Zigzagoon @filler
 Linoone @filler
 Wurmple @filler
@@ -137,6 +144,9 @@ Surskit @filler
 Masquerain @filler
 Shroomish @filler
 Breloom @filler
+Nincada @filler
+Ninjask @filler
+Shedinja @filler
 Azurill
 Skitty
 Delcatty
@@ -174,6 +184,8 @@ Corphish @filler
 Crawdaunt @filler
 Baltoy @filler
 Claydol @filler
+Feebas
+Milotic
 Castform @filler
 Kecleon
 Shuppet
@@ -225,6 +237,7 @@ Happiny
 Snover
 Abomasnow
 Weavile
+Togekiss
 Yanmega
 Leafeon
 Glaceon
