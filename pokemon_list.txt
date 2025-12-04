@@ -22,46 +22,41 @@ Poliwrath
 Machop
 Machoke
 Machamp
-Bellsprout @filler
-Weepinbell @filler
-Victreebel @filler
-Ponyta @filler
-Rapidash @filler
+Bellsprout
+Weepinbell
+Victreebel
 Slowpoke
 Slowbro
 Seel
 Dewgong
 Shellder
 Cloyster
-Gastly @filler
-Haunter @filler
-Gengar @filler
-Drowzee @filler
-Hypno @filler
-Krabby @filler
-Kingler @filler
-Cubone @filler
-Marowak @filler
-Rhyhorn @filler
-Rhydon @filler
-Chansey
-Goldeen @filler
-Seaking @filler
-Staryu @filler
-Starmie @filler
+Gastly
+Haunter
+Gengar
+Krabby
+Kingler
+Cubone
+Marowak
+Rhyhorn
+Rhydon
+Goldeen
+Seaking
+Staryu
+Starmie
 Magikarp
 Gyarados
 Lapras
 Eevee
 Jolteon
 Flareon
-Omanyte @filler
-Omastar @filler
-Kabuto @filler
-Kabutops @filler
-Dratini @filler
-Dragonair @filler
-Dragonite @filler
+Omanyte
+Omastar
+Kabuto
+Kabutops
+Dratini
+Dragonair
+Dragonite
 Chikorita
 Bayleef
 Meganium
@@ -75,8 +70,6 @@ Sentret
 Furret
 Hoothoot
 Noctowl
-Chinchou
-Lanturn
 Pichu
 Togepi
 Togetic
@@ -102,51 +95,42 @@ Espeon
 Umbreon
 Murkrow
 Slowking
-Misdreavus
 Pineco
 Forretress
-Dunsparce
 Snubbull
 Granbull
-Shuckle
-Heracross
 Sneasel
 Teddiursa
 Ursaring
 Slugma
 Magcargo
-Swinub
-Piloswine
 Skarmory
-Houndour
-Houndoom
 Stantler
 Miltank
-Blissey
-Larvitar @filler
-Pupitar @filler
-Tyranitar @filler
-Poochyena @filler
-Mightyena @filler
-Zigzagoon @filler
-Linoone @filler
-Wurmple @filler
-Silcoon @filler
-Beautifly @filler
-Cascoon @filler
-Dustox @filler
-Wingull @filler
-Pelipper @filler
-Ralts @filler
-Kirlia @filler
-Gardevoir @filler
-Surskit @filler
-Masquerain @filler
-Shroomish @filler
-Breloom @filler
-Nincada @filler
-Ninjask @filler
-Shedinja @filler
+Larvitar
+Pupitar
+Tyranitar
+Poochyena
+Mightyena
+Zigzagoon
+Linoone
+Wurmple
+Silcoon
+Beautifly
+Cascoon
+Dustox
+Wingull
+Pelipper
+Ralts
+Kirlia
+Gardevoir
+Surskit
+Masquerain
+Shroomish
+Breloom
+Nincada
+Ninjask
+Shedinja
 Azurill
 Skitty
 Delcatty
@@ -157,10 +141,8 @@ Meditite
 Medicham
 Electrike
 Manectric
-Volbeat
-Illumise
-Carvanha @filler
-Sharpedo @filler
+Carvanha
+Sharpedo
 Wailmer
 Wailord
 Numel
@@ -180,60 +162,52 @@ Lunatone
 Solrock
 Barboach
 Whiscash
-Corphish @filler
-Crawdaunt @filler
-Baltoy @filler
-Claydol @filler
+Corphish
+Crawdaunt
+Baltoy
+Claydol
 Feebas
 Milotic
-Castform @filler
 Kecleon
 Shuppet
 Banette
 Duskull
 Dusclops
 Tropius
-Chimecho @filler
 Absol
 Snorunt
 Glalie
 Spheal
 Sealeo
 Walrein
-Clamperl @filler
-Huntail @filler
-Gorebyss @filler
-Relicanth @filler
-Bagon @filler
-Shelgon @filler
-Salamence @filler
-Beldum @filler
-Metang @filler
-Metagross @filler
+Bagon
+Shelgon
+Salamence
+Beldum
+Metang
+Metagross
 Bidoof
 Bibarel
-Kricketot @filler
-Kricketune @filler
-Shinx @filler
-Luxio @filler
-Luxray @filler
-Combee @filler
-Vespiquen @filler
+Kricketot
+Kricketune
+Shinx
+Luxio
+Luxray
+Combee
+Vespiquen
 Pachirisu
 Buizel
 Floatzel
 Buneary
 Lopunny
 Honchkrow
-Glameow @filler
-Purugly @filler
-Chingling @filler
-Stunky @filler
-Skuntank @filler
-Bronzor @filler
-Bronzong @filler
+Glameow
+Purugly
+Stunky
+Skuntank
+Bronzor
+Bronzong
 Bonsly
-Happiny
 Snover
 Abomasnow
 Weavile
@@ -241,30 +215,28 @@ Togekiss
 Yanmega
 Leafeon
 Glaceon
-Mamoswine
 Dusknoir
 Froslass
 Munna
 Musharna
-Pidove @filler
-Tranquill @filler
-Unfezant @filler
-Blitzle @filler
-Zebstrika @filler
+Pidove
+Tranquill
+Unfezant
+Blitzle
+Zebstrika
 Drilbur
 Excadrill
 Audino
-Tympole @filler
-Palpitoad @filler
-Seismitoad @filler
+Tympole
+Palpitoad
+Seismitoad
 Cottonee
 Whimsicott
-Basculin @filler
-Maractus
+Basculin
 Dwebble
 Crustle
-Scraggy @filler
-Scrafty @filler
+Scraggy
+Scrafty
 Tirtouga
 Carracosta
 Archen
@@ -278,33 +250,25 @@ Cinccino
 Gothita
 Gothorita
 Gothitelle
-Solosis
-Duosion
-Reuniclus
 Ducklett
 Swanna
 Vanillite
 Vanillish
 Vanilluxe
-Deerling @filler
-Sawsbuck @filler
-Emolga @filler
-Karrablast @filler
-Escavalier @filler
-Foongus @filler
-Amoonguss @filler
-Joltik @filler
-Galvantula @filler
+Deerling
+Sawsbuck
+Emolga
+Karrablast
+Escavalier
+Foongus
+Amoonguss
 Litwick
 Lampent
 Chandelure
-Axew @filler
-Fraxure @filler
-Haxorus @filler
-Cubchoo @filler
-Beartic @filler
+Cubchoo
+Beartic
 Cryogonal
-Stunfisk @filler
+Stunfisk
 Mienfoo
 Mienshao
 Deino
@@ -323,14 +287,11 @@ Frogadier
 Greninja
 Litleo
 Pyroar
-Flabebe
-Floette
-Florges
 Skiddo
 Gogoat
 Furfrou
-Espurr @filler
-Meowstic @filler
+Espurr
+Meowstic
 Spritzee
 Aromatisse
 Swirlix
@@ -338,93 +299,62 @@ Slurpuff
 Helioptile
 Helioptile
 Sylveon
-Hawlucha @filler
+Hawlucha
 Dedenne
-Carbink @filler
 Goomy
 Sliggoo
 Goodra
 Klefki
-Phantump @filler
-Trevenant @filler
-Pumpkaboo @filler
-Gourgeist @filler
-Bergmite
-Avalugg
+Phantump
+Trevenant
 Noibat
 Noivern
-Rowlet
-Dartrix
-Decidueye
-Litten
-Torracat
-Incineroar
-Popplio
-Brionne
-Primarina
 Grubbin
 Charjabug
 Vikavolt
-Cutiefly @filler
-Ribombee @filler
-Rockruff @filler
-Lycanroc @filler
-Wishiwashi @filler
-Mudbray @filler
-Mudsdale @filler
-Fomantis @filler
-Lurantis @filler
-Morelull @filler
-Shiinotic @filler
-Salandit @filler
-Salazzle @filler
+Cutiefly
+Ribombee
+Rockruff
+Lycanroc
+Morelull
+Shiinotic
+Salandit
+Salazzle
 Stufful
 Bewear
-Bounsweet @filler
-Steenee @filler
-Tsareena @filler
 Sandygast
 Palossand
 Togedemaru
-Mimikyu @filler
-Bruxish @filler
-Drampa @filler
-Dhelmise @filler
-Jangmo-o @filler
-Hakamo-o @filler
-Kommo-o @filler
+Mimikyu
 Rookidee
 Corvisquire
 Corviknight
-Nickit @filler
-Thievul @filler
+Nickit
+Thievul
 Wooloo
 Dubwool
 Rolycoly
 Carkol
 Coalossal
-Applin @filler
-Flapple @filler
-Appletun @filler
+Applin
+Flapple
+Appletun
 Toxel
 Toxtricity
 Sinistea
 Polteageist
-Hatenna @filler
-Hattrem @filler
-Hatterene @filler
-Impidimp @filler
-Morgrem @filler
-Grimmsnarl @filler
+Hatenna
+Hattrem
+Hatterene
 Perrserker
 Milcery
 Alcremie
 Snom
 Frosmoth
-Dreepy @filler
-Drakloak @filler
-Dragapult @filler
-Wydeer
+Dreepy
+Drakloak
+Dragapult
+Wyrdeer
 Sneasler
 Sprigatito
 Floragato
@@ -440,16 +370,24 @@ Oinkologne
 Pawmi
 Pawmo
 Pawmot
-Flittle @filler
-Esparthra @filler
+Flittle
+Espathra
 Tinkatink
 Tinkatuff
 Tinkaton
-Finizen @filler
-Palafin @filler
-Dudunsparce
-Frigibax
-Arctibax
-Baxcalibur
-Poltchageist
-Sinistcha
+Finizen
+Palafin
+Tynamo
+Eelektrik
+Eelektross
+Nidoran♀
+Nidoran♂
+Nidorina
+Nidoqueen
+Nidorino
+Nidoking
+Zubat
+Golbat
+Crobat
+Croagunk
+Toxicroak
